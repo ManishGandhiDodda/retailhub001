@@ -1,0 +1,21 @@
+From 3a457c43bc3137039e132dafd16b708cb024f2ff Mon Sep 17 00:00:00 2001
+From: Mansih <manishgandhi02@gmail.com>
+Date: Mon, 17 Sep 2018 18:26:37 +0000
+Subject: [PATCH] added the patching
+
+---
+ manish.java | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/manish.java b/manish.java
+index 79f61b7..41be88d 100644
+--- a/manish.java
++++ b/manish.java
+@@ -1,2 +1,4 @@
+ 
+ Hello this is manish gandhi dodda trying to learn Github....
++
++"Inserting to check patching"
+-- 
+2.7.4
+
